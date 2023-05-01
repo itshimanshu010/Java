@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-class Greatest 
+public class Greatest 
 {
 	
 	int num1,num2,num3;
@@ -39,7 +39,8 @@ class Greatest
 
 
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		
 		Greatest g=new Greatest();
 		g.getdata();
